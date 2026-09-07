@@ -8,9 +8,3 @@ print("Hello Python")
 
 # Question 3
 print("Welcome to Python Class")
-
-name = "Rohit"
-age = 21
-
-print(f"Name: {name}")
-print(f"Age: {age}")
