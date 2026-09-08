@@ -10,7 +10,7 @@ def count_set_bits(n):
 
     return count
 
-
+# Count Set Bits
 if __name__ == "__main__":
     n = int(input().strip())
     print(count_set_bits(n))
