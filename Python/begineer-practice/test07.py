@@ -6,6 +6,7 @@ def find_single_number(nums):
         if nums.count(num) == 1:
             return num
 
+
 # Single Number
 if __name__ == "__main__":
     nums = list(map(int, input().split()))
