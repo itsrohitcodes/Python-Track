@@ -1,3 +1,4 @@
+# Salman Sir Assessment
 # QUESTION 04
 
 # Function to calculate total amount, discount, and final amount
