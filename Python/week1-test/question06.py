@@ -1,3 +1,4 @@
+# Salman Sir Assessment
 # question 06
 
 # Function to analyze numbers
