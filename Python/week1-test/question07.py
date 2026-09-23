@@ -1,3 +1,4 @@
+# Salman Sir Assessment
 # question 07
 
 # Function to count words
