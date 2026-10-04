@@ -1,6 +1,7 @@
 # Salman Sir Assessment
 # question 10
 
+# write your logic here
 # class book
 class LibraryBook:
     def __init__(self, title, author, price):
