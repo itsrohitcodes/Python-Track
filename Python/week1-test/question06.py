@@ -1,5 +1,5 @@
 # Salman Sir Assessment
-# question 06
+# QUESTION 06
 
 # write your logic here
 # Function to analyze numbers
