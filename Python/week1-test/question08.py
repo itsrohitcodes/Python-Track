@@ -1,5 +1,5 @@
 # Salman Sir Assessment
-# question 08
+# QUESTION 08
 
 # write your logic here
 # Function to match skills
