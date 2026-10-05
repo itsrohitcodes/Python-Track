@@ -1,5 +1,5 @@
 # Salman Sir Assessment
-# question 10
+# QUESTION 10
 
 # write your logic here
 # class book
