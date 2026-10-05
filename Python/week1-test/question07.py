@@ -1,5 +1,5 @@
 # Salman Sir Assessment
-# question 07
+# QUESTION 07
 
 # write your logic here
 # Function to count words
