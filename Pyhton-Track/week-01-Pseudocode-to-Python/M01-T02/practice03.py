@@ -1,5 +1,6 @@
 # Calculate the sum of digits
 
+# input from user
 number = int(input())
 sum_of_digits = 0
 
