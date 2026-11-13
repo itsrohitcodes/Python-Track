@@ -1,4 +1,5 @@
 # Day 2
+# Calculation
 
 # Input from user
 a = int(input())
