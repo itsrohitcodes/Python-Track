@@ -1,6 +1,5 @@
 # First Unique ID
 
-
 def first_unique_id(ids):
     # Write your code here.
     for i in ids:
