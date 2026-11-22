@@ -1,6 +1,5 @@
 # Longest Unique Segment
 
-
 def longest_unique_segment(s):
     # Write your code here.
     longest = 0
