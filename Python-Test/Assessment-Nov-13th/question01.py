@@ -1,6 +1,5 @@
 # Earliest Day to Pack Orders
 
-
 def earliest_packing_day(ready_days, m, k):
     # Write your code here.
     if m * k > len(ready_days):
